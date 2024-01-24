@@ -1,1 +1,2 @@
 1st line content in merge.txt
+append some lines to merge.txt
